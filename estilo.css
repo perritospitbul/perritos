@@ -1,0 +1,45 @@
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+}
+h3 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+body {
+    background:url(imgen/chi.jpeg);
+    color: rgb(255, 255, 255); 
+    text-align:left;
+}
+h1, h3, a, div, p {
+    background: rgba(182, 182, 182, 0.315);
+}
+div {
+    width: 900px;
+    border: 1px dashed rgb(141, 141, 141) ;
+}
+p {
+    font-family: cursive;
+    font-size: 14;
+}
+h2 {
+    font-family: serif;
+    font-size: 40px;
+    font-style: oblique;
+    text-align: center;
+    background:rgba(255, 255, 255, 0.747) ;
+}
+img {
+    border-radius: 15px;
+    box-shadow:6px 6px  rgba(184, 182, 196, 0.473);
+}
+form {
+    width: 25px;
+}
+h5 {
+    text-align: center;
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
